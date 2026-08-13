@@ -19,7 +19,8 @@ Build a profile README for Dre that attracts technical collaborators, founder pe
 
 ## Approved facts and links
 
-- Display name: Dre.
+- Opening display name: Alexandre Nevero.
+- Brand signature: Dre.
 - GitHub account: [Alexandre-Nevero](https://github.com/Alexandre-Nevero).
 - Email: [andreinevero@gmail.com](mailto:andreinevero@gmail.com).
 - LinkedIn: [alexandre-andrei-nevero](https://www.linkedin.com/in/alexandre-andrei-nevero/).
@@ -36,7 +37,7 @@ Use the role text exactly. Do not imply sole ownership of LINGAP or GuidHer.
 
 ## Content structure
 
-1. Masthead: Dre, concise positioning statement, email, LinkedIn.
+1. Masthead: Alexandre Nevero, concise positioning statement, email, LinkedIn. Place the Dre signature inside the lower edge of the right-side sculpture image.
 2. Operating note: one short paragraph on business-first product thinking and technical fluency.
 3. Selected work: SelyoPass, LINGAP, GuidHer.
 4. GitHub activity and stats.
@@ -53,4 +54,3 @@ GitHub supports profile READMEs and `<picture>` elements for dark/light image va
 - Changing GitHub username, profile pins, repository visibility, or deleting repositories.
 - Inventing a company, traction, investment status, or client work.
 - External deployment, custom web app, or JavaScript interaction.
-

@@ -28,3 +28,8 @@ Use a simple, classical "Dre" wordmark/ligature as a live SVG overlay. It should
 
 Use Conventional Commits for repository history. Make small, scoped commits. Do not include assistant attribution in commit messages or trailers.
 
+## 2026-08-13: Canonical README composition
+
+Use the dark C-direction as the canonical profile composition. Keep the right-side dot-screen sculpture image. Use `Alexandre Nevero` as the large opening title and retain B's positioning sentence: "I work where business judgment, product design, and technical delivery have to agree."
+
+Use `Dre` only as the small classical signature inside the lower edge of the portrait. Keep the three-column proof ledger labels: `Focus`, `Portfolio`, and `Signal`.

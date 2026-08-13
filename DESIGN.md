@@ -21,7 +21,7 @@ Keep the reference's contrast, sparse structure, monospaced labels, oversized he
 
 ## Typography
 
-- Headline: high-contrast, oversized sans-serif treatment rendered as SVG when GitHub needs exact control.
+- Opening name: high-contrast oversized serif treatment, set as `Alexandre Nevero`.
 - Supporting facts: semantic Markdown, readable without images.
 - Labels and technical measurements: monospaced SVG or Markdown code.
 - Keep body copy at normal GitHub-readable size. Never bake core prose into images.
@@ -31,7 +31,7 @@ Keep the reference's contrast, sparse structure, monospaced labels, oversized he
 - Each portrait is an original Greco-Roman-style sculpture rendered as a full rectangular black field with a dense off-white dot grid.
 - The dots continue through the background. The bust emerges by changes in dot density, not by sitting as a cutout on black.
 - Crops are close, asymmetrical, and editorial. No real-person resemblance, AI/robot imagery, or museum-photo treatment.
-- Each panel receives a live, editable SVG "Dre" wordmark overlay. It must stay legible at thumbnail size and avoid covering a face's eye line.
+- The opening sculpture field receives a live, editable SVG "Dre" wordmark overlay, positioned at its lower edge. It must stay legible at thumbnail size and avoid covering a face's eye line.
 
 ## Logo direction
 
@@ -41,7 +41,8 @@ The mark is monochrome, no enclosing badge, no crown, no laurel, no shield, no b
 
 ## Composition
 
-- Opening: "Dre" and a one-sentence business-and-product position, then contact.
+- Opening: `Alexandre Nevero`, then the business-and-product positioning sentence. `Dre` sits inside the lower edge of the right-side sculpture field as the signature.
+- Canonical layout: dark C-direction structure, with right-side portrait, hard rules, and B-direction `Focus` / `Portfolio` / `Signal` proof ledger.
 - Evidence: three selected-work panels, each with portrait field, wordmark overlay, project, exact role, and one plain description.
 - Activity: GitHub statistics in a local SVG, refreshed by Actions or clearly labeled as static snapshot.
 - Close: email and LinkedIn.
@@ -57,4 +58,3 @@ The profile is static. No animated SVG, autoplay, hover-only content, or motion 
 - All essential content exists as live Markdown text.
 - Text contrast meets WCAG AA against both dark and light GitHub themes.
 - Links have descriptive labels.
-

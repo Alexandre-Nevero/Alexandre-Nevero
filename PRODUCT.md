@@ -31,7 +31,7 @@ The profile is read on GitHub by people assessing public work. Most readers will
 - Primary action: email `andreinevero@gmail.com`.
 - Secondary professional link: <https://www.linkedin.com/in/alexandre-andrei-nevero/>.
 - Public GitHub account: `Alexandre-Nevero`.
-- Public display name and nickname: `Dre`. Do not lead with "Alex" in future profile copy.
+- Opening display name: `Alexandre Nevero`. Brand signature and nickname: `Dre`. Do not use "Alex" as a standalone display name.
 - The profile must include GitHub stats and three selected projects.
 - Avoid unsupported claims about investment, employment, company ownership, traction, revenue, or sole authorship.
 - GitHub README rendering is the production target. It cannot rely on external CSS, JavaScript, custom fonts, or live browser-only layouts.
@@ -58,4 +58,3 @@ The profile is read on GitHub by people assessing public work. Most readers will
 - Make contact available without hunting.
 - Use technical detail only where it strengthens product credibility.
 - Keep every visual decision readable on GitHub and on mobile.
-
