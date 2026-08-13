@@ -2,7 +2,7 @@
   <title id="title">GitHub activity snapshot for Alexandre-Nevero</title>
   <desc id="description">11 public repositories and 6 followers</desc>
   <rect width="720" height="180" rx="16" fill="#0d1117"/>
-  <text x="40" y="62" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="28" font-weight="700">Alexandre-Nevero on GitHub</text>
-  <text x="40" y="116" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22">11 public repositories</text>
-  <text x="40" y="150" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22">6 followers</text>
+  <text x="40" y="62" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="28" font-weight="700">Alexandre-Nevero on GitHub</text>
+  <text x="40" y="116" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22">11 public repositories</text>
+  <text x="40" y="150" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22">6 followers</text>
 </svg>

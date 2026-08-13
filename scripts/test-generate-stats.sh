@@ -10,7 +10,11 @@ profile=$(curl --fail --silent --show-error "https://api.github.com/users/$usern
 repositories=$(jq -r '.public_repos' <<<"$profile")
 followers=$(jq -r '.followers' <<<"$profile")
 
-"$root/scripts/generate-stats.sh" "$username" "$output"
+posix_shell=${POSIX_SHELL:-sh}
+if command -v dash >/dev/null 2>&1; then
+  posix_shell=dash
+fi
+"$posix_shell" "$root/scripts/generate-stats.sh" "$username" "$output"
 
 grep -Fq '<svg xmlns="http://www.w3.org/2000/svg"' "$output"
 grep -Fq "$username" "$output"

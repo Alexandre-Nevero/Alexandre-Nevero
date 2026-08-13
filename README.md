@@ -38,7 +38,7 @@ Business research. Product framing and public-interest problem work.
 
 ![GitHub activity snapshot](assets/stats.svg)
 
-The local activity snapshot will appear here after the scheduled generator is added.
+This snapshot refreshes daily through GitHub Actions.
 
 ## Contact
 
