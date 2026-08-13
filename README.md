@@ -38,7 +38,7 @@ Business research. Product framing and public-interest problem work.
 
 ![GitHub activity snapshot](assets/stats.svg)
 
-This snapshot refreshes daily through GitHub Actions.
+This snapshot is scheduled to refresh daily through GitHub Actions.
 
 ## Contact
 
