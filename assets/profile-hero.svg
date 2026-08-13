@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Alexandre Nevero profile portrait</title>
+  <desc id="desc">Dark editorial field with Alexandre Nevero at left and a dot-screen classical bust at right, signed Dre.</desc>
+  <rect width="1200" height="630" fill="#10100f"/>
+  <defs>
+    <pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.15" fill="#e9e5db"/>
+    </pattern>
+    <pattern id="denseDots" width="9" height="9" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.8" fill="#e9e5db"/>
+    </pattern>
+    <clipPath id="bust">
+      <path d="M875 82c-71 0-123 49-123 123 0 38 17 65 30 87l-9 53c-11 22-30 38-54 50l-15 24 67 18 12 92h255l-20-96 47-26-10-23c-43-10-69-30-82-61l-3-69c17-27 28-58 28-89 0-75-50-123-122-123Z"/>
+    </clipPath>
+    <clipPath id="face">
+      <path d="M875 101c-53 0-93 38-93 95 0 37 18 62 32 82l-7 57c8 13 27 22 45 24l12-34 1-57c-17-17-26-40-24-66 3-57 55-79 91-56 20 13 29 39 24 72-3 23-12 43-25 57l2 62 18 33c23-7 39-18 48-34l-10-67c16-27 27-57 27-87 0-57-40-95-95-95Z"/>
+    </clipPath>
+  </defs>
+  <g fill="url(#dots)" opacity=".58">
+    <rect x="683" y="34" width="458" height="562"/>
+  </g>
+  <g clip-path="url(#bust)">
+    <rect x="700" y="60" width="390" height="490" fill="url(#denseDots)"/>
+    <path d="M875 82c-71 0-123 49-123 123 0 38 17 65 30 87l-9 53c-11 22-30 38-54 50l-15 24 67 18 12 92h255l-20-96 47-26-10-23c-43-10-69-30-82-61l-3-69c17-27 28-58 28-89 0-75-50-123-122-123Z" fill="#e9e5db" opacity=".14"/>
+  </g>
+  <g clip-path="url(#face)" fill="#10100f">
+    <path d="M820 163c33-34 75-39 117-13l-20 21-52-4-30 19Z"/>
+    <path d="M812 218c25-20 48-22 69-10l-4 17-45 4Z"/>
+    <ellipse cx="847" cy="229" rx="7" ry="5"/>
+    <path d="M889 211c24-14 48-8 62 12l-15 10-42-5Z"/>
+    <ellipse cx="909" cy="229" rx="7" ry="5"/>
+    <path d="M871 233l-13 52 26 5-11 13-25-8 9-62Z"/>
+    <path d="M829 314c29 19 65 18 94-3l-10 27c-27 16-54 18-81 0Z"/>
+    <path d="M831 352c-8 49-11 96-6 142h54l-4-111 18 111h96c-8-55-18-104-34-145-37 29-85 29-124 3Z"/>
+  </g>
+  <path d="M711 438h385" stroke="#e9e5db" stroke-width="1" opacity=".5"/>
+  <text x="68" y="185" fill="#e9e5db" font-family="Georgia, 'Times New Roman', serif" font-size="72" letter-spacing="-3">Alexandre</text>
+  <text x="68" y="259" fill="#e9e5db" font-family="Georgia, 'Times New Roman', serif" font-size="72" letter-spacing="-3">Nevero</text>
+  <path d="M69 299h480" stroke="#e9e5db" stroke-width="1" opacity=".72"/>
+  <text x="70" y="334" fill="#a9a59d" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" letter-spacing="2">BUSINESS / PRODUCT / SYSTEMS</text>
+  <text x="70" y="505" fill="#a9a59d" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" letter-spacing="1.5">FOUNDER FILE · PROFILE</text>
+  <text x="997" y="560" fill="#e9e5db" font-family="cursive" font-size="52" font-style="italic">Dre</text>
+</svg>
