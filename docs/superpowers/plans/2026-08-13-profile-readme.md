@@ -56,6 +56,7 @@
 **Files:**
 - Verify: `README.md`, `assets/profile-hero.svg`, `assets/stats.svg`, `.github/workflows/refresh-stats.yml`
 
+- [ ] Resolve deferred Task 2 review findings: remove stale activity placeholder copy, make the generator POSIX `sh` compatible, and use the approved mono labels in the stats SVG.
 - [ ] Render README in GitHub-compatible local HTML and inspect desktop/mobile screenshots.
 - [ ] Check links, SVG XML, shell syntax, YAML structure, and repository diff.
 - [ ] Merge approved branch into `main`.
