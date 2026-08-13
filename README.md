@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-hero.svg" alt="Alexandre Nevero portrait, signed Dre" width="100%">
+  <img src="assets/profile-hero.svg" alt="Alexandre Nevero portrait" width="100%">
 </p>
 
 # Alexandre Nevero
