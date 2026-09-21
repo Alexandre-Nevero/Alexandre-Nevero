@@ -1,24 +1,8 @@
 <p align="center">
-  <img src="assets/profile-hero.svg" alt="Alexandre Nevero portrait" width="100%">
+  <img src="assets/profile-hero.png" alt="Alexandre Nevero. I work where business judgment, product design, and technical delivery have to agree. Focus: business models that survive contact with users. Portfolio: products worth studying before they are scaled. Signal: open work, public code, visible progress." width="100%">
 </p>
 
-# Alexandre Nevero
-
-Business and product architect who builds. I work from commercial framing to usable systems, with enough technical fluency to stay close to the work.
-
 [Email](mailto:andreinevero@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alexandre-andrei-nevero/) · [GitHub](https://github.com/Alexandre-Nevero)
-
-## Focus
-
-Business-first product thinking, technical systems, and work that turns a real operating problem into a clear product path.
-
-## Portfolio
-
-Selected public work across owned builds and collaborative projects.
-
-## Signal
-
-I work across product framing, business research, and backend delivery. The role attached to each project is exact.
 
 ## Selected work
 
