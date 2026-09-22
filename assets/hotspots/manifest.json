@@ -1,0 +1,89 @@
+{
+  "stripBottom": 142,
+  "segments": [
+    {
+      "name": "pre-work",
+      "x0": 0,
+      "x1": 1693,
+      "href": "https://www.linkedin.com/in/alexandre-andrei-nevero/",
+      "y0": 0,
+      "y1": 142,
+      "w": 1693,
+      "h": 142,
+      "file": "nav-pre-work.png",
+      "widthPct": 82.666015625
+    },
+    {
+      "name": "work",
+      "x0": 1693,
+      "x1": 1768,
+      "href": "https://github.com/Alexandre-Nevero/SelyoPass",
+      "y0": 0,
+      "y1": 142,
+      "w": 75,
+      "h": 142,
+      "file": "nav-work.png",
+      "widthPct": 3.662109375
+    },
+    {
+      "name": "pre-stats",
+      "x0": 1768,
+      "x1": 1776,
+      "href": "https://www.linkedin.com/in/alexandre-andrei-nevero/",
+      "y0": 0,
+      "y1": 142,
+      "w": 8,
+      "h": 142,
+      "file": "nav-pre-stats.png",
+      "widthPct": 0.390625
+    },
+    {
+      "name": "stats",
+      "x0": 1776,
+      "x1": 1852,
+      "href": "https://github.com/Alexandre-Nevero",
+      "y0": 0,
+      "y1": 142,
+      "w": 76,
+      "h": 142,
+      "file": "nav-stats.png",
+      "widthPct": 3.7109375
+    },
+    {
+      "name": "pre-contact",
+      "x0": 1852,
+      "x1": 1860,
+      "href": "https://www.linkedin.com/in/alexandre-andrei-nevero/",
+      "y0": 0,
+      "y1": 142,
+      "w": 8,
+      "h": 142,
+      "file": "nav-pre-contact.png",
+      "widthPct": 0.390625
+    },
+    {
+      "name": "contact",
+      "x0": 1860,
+      "x1": 1964,
+      "href": "https://www.linkedin.com/in/alexandre-andrei-nevero/",
+      "y0": 0,
+      "y1": 142,
+      "w": 104,
+      "h": 142,
+      "file": "nav-contact.png",
+      "widthPct": 5.078125
+    },
+    {
+      "name": "tail",
+      "x0": 1964,
+      "x1": 2048,
+      "href": "https://www.linkedin.com/in/alexandre-andrei-nevero/",
+      "y0": 0,
+      "y1": 142,
+      "w": 84,
+      "h": 142,
+      "file": "nav-tail.png",
+      "widthPct": 4.1015625
+    }
+  ]
+}

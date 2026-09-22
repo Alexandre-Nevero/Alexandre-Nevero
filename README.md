@@ -1,29 +1,4 @@
-<p align="center">
-  <img src="assets/profile-hero.png" alt="Alexandre Nevero. I work where business judgment, product design, and technical delivery have to agree. Focus: business models that survive contact with users. Portfolio: products worth studying before they are scaled. Signal: open work, public code, visible progress." width="100%">
-</p>
-
-[Email](mailto:andreinevero@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alexandre-andrei-nevero/) · [GitHub](https://github.com/Alexandre-Nevero)
-
-## Selected work
-
-### [SelyoPass](https://github.com/Alexandre-Nevero/SelyoPass)
-
-Founder. Testnet prototype for portable Philippine KYB evidence.
-
-### [LINGAP](https://github.com/wolfsenberg/LINGAP)
-
-Backend developer. Collaborative work on transparent aid infrastructure.
-
-### [GuidHer](https://github.com/1-N-2-Dis/GuidHer)
-
-Business research. Product framing and public-interest problem work.
-
-## GitHub activity
-
-![GitHub activity snapshot](assets/stats.svg)
-
-This snapshot is scheduled to refresh daily through GitHub Actions.
-
-## Contact
-
-Reach me at [andreinevero@gmail.com](mailto:andreinevero@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/alexandre-andrei-nevero/).
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr><td><a href="https://www.linkedin.com/in/alexandre-andrei-nevero/"><img src="assets/hotspots/nav-pre-work.png" width="82.666016%" height="auto" alt=""></a><a href="https://github.com/Alexandre-Nevero/SelyoPass"><img src="assets/hotspots/nav-work.png" width="3.662109%" height="auto" alt=""></a><a href="https://www.linkedin.com/in/alexandre-andrei-nevero/"><img src="assets/hotspots/nav-pre-stats.png" width="0.390625%" height="auto" alt=""></a><a href="https://github.com/Alexandre-Nevero"><img src="assets/hotspots/nav-stats.png" width="3.710938%" height="auto" alt=""></a><a href="https://www.linkedin.com/in/alexandre-andrei-nevero/"><img src="assets/hotspots/nav-pre-contact.png" width="0.390625%" height="auto" alt=""></a><a href="https://www.linkedin.com/in/alexandre-andrei-nevero/"><img src="assets/hotspots/nav-contact.png" width="5.078125%" height="auto" alt=""></a><a href="https://www.linkedin.com/in/alexandre-andrei-nevero/"><img src="assets/hotspots/nav-tail.png" width="4.101563%" height="auto" alt=""></a></td></tr>
+<tr><td><a href="https://www.linkedin.com/in/alexandre-andrei-nevero/"><img src="assets/hotspots/body.png" alt="Alexandre Nevero. I work where business judgment, product design, and technical delivery have to agree. Focus: business models that survive contact with users. Portfolio: products worth studying before they are scaled. Signal: open work, public code, visible progress. Contact: LinkedIn." width="100%"></a></td></tr>
+</table>
