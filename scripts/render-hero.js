@@ -155,14 +155,13 @@ print("Wrote", len(manifest), "header slices + body @ y", strip_bottom)
   const navHtml = manifest
     .map((s) => {
       const w = Number(s.widthPct.toFixed(6));
-      return `<a href="${s.href}"><img src="assets/hotspots/${s.file}" width="${w}%" height="auto" alt=""></a>`;
+      return `<a href="${s.href}"><img src="assets/hotspots/${s.file}" width="${w}%" height="auto" alt="" border="0"></a>`;
     })
     .join('');
 
-  const readme = `<table width="100%" cellspacing="0" cellpadding="0" border="0">
-<tr><td>${navHtml}</td></tr>
-<tr><td><a href="${LI}"><img src="assets/hotspots/body.png" alt="${alt}" width="100%"></a></td></tr>
-</table>
+  const readme = `<p align="center">
+${navHtml}<img src="assets/hotspots/body.png" alt="${alt}" width="100%" border="0">
+</p>
 `;
   fs.writeFileSync(path.join(root, 'README.md'), readme);
   console.log('Updated README.md, assets/profile-hero.png, assets/hotspots/');
